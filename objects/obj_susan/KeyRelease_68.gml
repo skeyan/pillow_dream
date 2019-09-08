@@ -1,7 +1,7 @@
-hspeed = -11 * spd_multiplier;
+hspeed = 0;
 
-image_xscale = -0.4;
-image_yscale = 0.4;
+image_xscale = .4;
+image_yscale = .4;
 
 walking = 1;
 
